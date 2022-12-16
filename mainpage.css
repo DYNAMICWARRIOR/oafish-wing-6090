@@ -112,13 +112,16 @@
 
 .text2 {
     width: 40%;
+
     padding-top: 50px;
     padding-left: 60px;
+
 }
 
 .video_div2 {
     width: 60%;
     margin-top: 50px;
+
 }
 
 .explore {
@@ -241,6 +244,7 @@
 #lastft {
     margin-top: 200px;
     margin-bottom: -280px;
+
 }
 
 #footer{
@@ -258,4 +262,7 @@
     padding-left: 0;
 }
 
+
+
+}
 
