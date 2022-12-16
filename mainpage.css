@@ -112,14 +112,16 @@
 
 .text2 {
     width: 40%;
-    /* border: 1px solid; */
-    padding-top: 100px;
+
+    padding-top: 50px;
+    padding-left: 60px;
+
 }
 
 .video_div2 {
     width: 60%;
     margin-top: 50px;
-    /* border: 1px solid; */
+
 }
 
 .explore {
@@ -242,4 +244,25 @@
 #lastft {
     margin-top: 200px;
     margin-bottom: -280px;
+
 }
+
+#footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top:300px ;
+}
+
+#getDiv{
+    padding-top: 20px;
+}
+
+#main{
+    width: 100%;
+    padding-left: 0;
+}
+
+
+
+}
+
